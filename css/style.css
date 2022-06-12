@@ -1,0 +1,58 @@
+.blog {
+    background-color: skyblue;
+    width: 1200px;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: justify;
+    border: 5px solid skyblue;
+    height: 300px;
+    border-radius: 20px;
+    opacity: .80;
+    color: black;
+    font-size: 18px;
+    
+   
+   
+}
+
+.logo-title{
+    width: 1200px;
+    margin: 5px auto;
+    text-align: center;
+    
+}
+
+.logo-title h1{
+    display: inline-block;
+}
+
+.blog img{
+    width: 600px;
+    height: 300px;
+}
+
+.author-name{
+    color: red;
+}
+
+body{
+    background-image:url("../img/coxs-bazar.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.blog h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+   
+}
+
+.logo{
+    width: 120px;
+    height: 100px;
+}
